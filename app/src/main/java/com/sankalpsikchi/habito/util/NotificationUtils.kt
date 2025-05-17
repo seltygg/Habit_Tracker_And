@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2018 Ivan Magda
+ * Copyright (c) 2025 Sankalp Sikchi
  *
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
